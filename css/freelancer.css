@@ -19,7 +19,7 @@ a.active,
 a:active,
 a:focus,
 a:hover {
-  color: #ed145d;
+  color: #0057e7;
   outline: none; }
 
 h1,
@@ -59,10 +59,10 @@ hr.star-light:after {
   background-color: #000000 }
 
 hr.star-primary {
-  border-color: #ed145d; }
+  border-color: #0057e7; }
 
 hr.star-primary:after {
-  color: #ed145d;
+  color: #0057e7;
   background-color: white; }
 
 .img-centered {
@@ -106,7 +106,7 @@ section.success {
   font-weight: 700;
   text-transform: uppercase;
   border: none;
-  background: #ed145d; }
+  background: #0057e7; }
   #mainNav a:focus {
     outline: none; }
   #mainNav .navbar-brand {
@@ -205,7 +205,7 @@ header.masthead {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: #ed145d;}
+      background: #0057e7;}
       #portfolio .portfolio-item .portfolio-link .caption:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -363,17 +363,17 @@ footer {
 .btn-primary {
       font-weight: 700;
       color: white;
-      border-color: #ed145d;
-      background-color: #ed145d;
+      border-color: #0057e7;
+      background-color: #0057e7;
   }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: black;
-    background-color: #ed145d; }
+    background-color: #0057e7; }
   .btn-primary:hover {
     color: white;
-    border-color: #ed145d;
-    background-color: #ed145d; }
+    border-color: #0057e7;
+    background-color: #0057e7; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
@@ -393,17 +393,17 @@ footer {
   fieldset[disabled] .btn-primary.focus,
   fieldset[disabled] .btn-primary:focus,
   fieldset[disabled] .btn-primary:hover {
-    border-color: #ed145d;
-    background-color: #ed145d; }
+    border-color: #0057e7;
+    background-color: #0057e7; }
   .btn-primary .badge {
-    color: #ed145d;
+    color: #0057e7;
     background-color: white; }
 
 .btn-success {
   font-weight: 700;
   color: white;
-  border-color: #ed145d;
-  background-color: #ed145d; }
+  border-color: #0057e7;
+  background-color: #0057e7; }
   .btn-success.focus, .btn-success:focus {
     color: white;
     border-color: #000000;
